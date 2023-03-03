@@ -1,2 +1,2 @@
-# python_learning
+# Python Learning
 Learning Python from basics to advanced topics
